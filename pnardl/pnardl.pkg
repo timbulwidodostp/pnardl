@@ -1,4 +1,7 @@
-D 'DEA': Data envelopment analysis
+D 'pnardl': Panel Nonlinear Autoregressive Distributed Lag (ARDL) (Panel NARDL) Estimation Use pnardl With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F pnardl.ado
+F pnardl.sthlp
+F xtpmg.ado
+F xtpmg.sthlp
+F xtpmg_ml.ado
