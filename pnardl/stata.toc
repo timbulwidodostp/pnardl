@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p pnardl Panel Nonlinear Autoregressive Distributed Lag (ARDL) (Panel NARDL) Estimation Use pnardl With STATA 19
